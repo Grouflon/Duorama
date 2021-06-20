@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 57c9f337e4c1b46418c62b6311d0e29f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - content: {fileID: 4369709836653015411, guid: c93fee63a2b867d49bae5d47ed7da14a, type: 3}
+  - maskCamera: {instanceID: 0}
+  - room1Camera: {instanceID: 0}
+  - room2Camera: {instanceID: 0}
+  - finalCamera: {instanceID: 0}
+  - world: {instanceID: 0}
+  - mask: {instanceID: 0}
+  - room1: {instanceID: 0}
+  - room2: {instanceID: 0}
+  - renderImage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

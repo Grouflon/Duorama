@@ -1,0 +1,10 @@
+{
+  "name": "grouflon.unitytools",
+  "version": "0.0.1",
+  "displayName": "Unity Tools",
+  "description": "various unity tools",
+  "author": {
+    "name": "Grouflon",
+    "url": "https://github.com/Grouflon"
+  }
+}
